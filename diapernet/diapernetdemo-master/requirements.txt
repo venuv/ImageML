@@ -1,0 +1,12 @@
+tkinter
+PIL
+matplotliob
+numpy
+opencv-python
+torch
+torchvision
+seaborn
+pandas
+skimage
+scipy
+numba
